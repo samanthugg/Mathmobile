@@ -1,0 +1,12 @@
+[
+    {
+        "operation": "addition",
+        "skill": "easy",
+        "scores": [
+            {
+                "name": "Samantha",
+                "score": 90
+            }
+        ]
+    }
+]
