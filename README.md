@@ -1,9 +1,3 @@
-# Credits
-- Dennis Parraga - Middleware Developer
-- Jonathan Hungate - Project Lead & Art
-- Junli Ma - UX Developer
-- Naomi Stolo - Backend Developer
-- Samantha Green - Quality Tester
 
 # What is Mathmobile?
 This project was undertaken as part of UMGC's Computer Science Capstone Course (CMSC 495) in the Spring 2026 term. Our team recognized that young people in the United States have fallen significantly behind in math, particularly due to the COVID-19 pandemic disrupting education. To help address this problem, we made a game that is a fun alternative for practicing mental math skills.
