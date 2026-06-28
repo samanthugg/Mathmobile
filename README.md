@@ -11,3 +11,5 @@ This project was undertaken as part of UMGC's Computer Science Capstone Course (
 
 # Running the Project
 The game requires all assets provided in the assets directory to function correctly. Running the main.py file should play the game as intended. Users may also run the backend_classes_test.py to run our backend test cases.
+
+--Final game is packaged as .exe--
